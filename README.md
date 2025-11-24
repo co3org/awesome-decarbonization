@@ -18,9 +18,10 @@ Decarbonizing the global economy by mid-century is the defining engineering and 
 - [Reports & Analyses](#reports--analyses)
 - [Carbon Offsetting Resources](#carbon-offsetting-resources)
 - [Carbon Insetting Resources](#carbon-insetting-resources)
+- [Scope 1, 2 & 3 Emissions Resources](#scope-1-2--3-emissions-resources)
 - [Contributing](#contributing)
 - [License](#license)
-
+- 
 ## Energy System Modeling
 
 - [OSeMOSYS](https://github.com/OSeMOSYS/OSeMOSYS) – Open Source Energy Modelling System for long-term energy planning.
@@ -165,6 +166,35 @@ Insetting focuses on reducing or removing emissions within a company’s own val
 - [Gold Standard Value Chain Interventions](https://www.goldstandard.org/publications/scope-3-value-chain-interventions-guidance) – Methodology for claiming Scope 3 reductions via insetting.
 - [Regen10](https://regen10.org/) – Coalition working on outcomes-based regenerative agriculture frameworks that enable insetting claims.
 
+## Scope 1, 2 & 3 Emissions Resources
+Core guides, protocols, calculators, and tools to understand, measure, report, and reduce Scope 1 (direct), Scope 2 (energy-related), and especially Scope 3 (value-chain) emissions.
+- [GHG Protocol – The global standard](https://ghgprotocol.org/)  
+  All official standards and guidance documents (Corporate Standard, Scope 2 Guidance, Scope 3 Standard, Scope 3 Calculation Guidance, etc.).
+- [GHG Protocol Scope 3 Evaluator (free online tool)](https://ghgprotocol.org/scope-3-calculation-guidance-0)  
+  Free web tool to quickly screen and estimate Scope 3 emissions.
+- [Scope 3 Guidance & Technical Guidance (2023 updates)](https://ghgprotocol.org/standards/scope-3-standard)  
+  Latest detailed calculation methods for all 15 Scope 3 categories.
+- [SBTi Scope 3 Target Setting Tool & Criteria (v5.2, 2024)](https://sciencebasedtargets.org/resources/files/Scope-3-Target-Setting-Tool.xlsx)  
+  Official Excel tool + rules for setting science-based Scope 3 targets.
+- [CDP Climate Change Questionnaire & Guidance](https://www.cdp.net/en/guidance/guidance-for-companies)  
+  Annual reporting framework used by 20,000+ companies; includes detailed Scope 1–3 questions and scoring methodology.
+- [Value Change Guidance (Scope 3 interventions, 2024)](https://valuechangeinitiative.com/)  
+  Practical framework distinguishing abatement, insetting, offsetting, and neutralisation in Scope 3.
+- [IEA Emissions Factors Database (2024)](https://www.iea.org/data-and-statistics/data-tools/emission-factors)  
+  Free, up-to-date Scope 2 (electricity) and some Scope 3 emission factors by country/region.
+- [Exiobase / Spend-based Scope 3 factors](https://www.exiobase.eu/)  
+  Widely used environmentally extended input-output database for quick spend-based Scope 3 screening.
+- [U.S. EPA Supply Chain GHG Emission Factors Hub (2024)](https://www.epa.gov/climateleadership/supply-chain-greenhouse-gas-emission-factors-hub)  
+  Free U.S.-focused factors for spend-based and average-data methods.
+- [Defra / UK Government GHG Conversion Factors (2024)](https://www.gov.uk/government/collections/government-ghg-conversion-factors-for-company-reporting)  
+  Annual UK factors; widely used globally for Scope 3 categories.
+- [WRI / Quantis Scope 3 Evaluator Tool (alternative free tool)](https://quantis.com/scope3evaluator)
+- [PCAFF – Global GHG Accounting Standard for Financial Institutions (2024)](https://carbonaccountingfinancials.com/)  
+  Standard for financed emissions (Scope 3 category 15 – Investments).
+- [TCFD / ISSB Climate-Related Disclosures (IFRS S2)](https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/ifrs-s2-climate-related-disclosures/)  
+  Mandatory Scope 1, 2, and (where material) Scope 3 disclosure requirements starting 2024–2025 in many jurisdictions.
+- [Exponential Roadmap Initiative – 1.5°C Supply Chain Leaders](https://exponentialroadmap.org/supply-chain-report/)  
+  Practical playbooks for engaging suppliers and reducing Scope 3 emissions exponentially.
 
 ## Contributing
 
