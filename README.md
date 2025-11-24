@@ -16,6 +16,8 @@ Decarbonizing the global economy by mid-century is the defining engineering and 
 - [Policy, Finance & Macroeconomic Modeling](#policy-finance--macroeconomic-modeling)
 - [Visualization & Dashboard Tools](#visualization--dashboard-tools)
 - [Reports & Analyses](#reports--analyses)
+- [Carbon Offsetting Resources](#carbon-offsetting-resources)
+- [Carbon Insetting Resources](#carbon-insetting-resources)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -132,6 +134,45 @@ Decarbonizing the global economy by mid-century is the defining engineering and 
 - [IPCC Global Warming of 1.5°C](https://www.ipcc.ch/sr15/) – Special report on impacts, adaptation, and mitigation pathways for 1.5°C limit.
 - [IPCC AR6 Synthesis Report: Climate Change 2023](https://www.ipcc.ch/report/ar6/syr/) – Comprehensive assessment of mitigation options and sectoral decarbonization.
 - [IPCC AR7 Outlines (Ongoing)](https://www.ipcc.ch/2025/) – Emerging outlines for next assessment cycle focusing on integration and equity in decarbonization.
+
+## Carbon Offsetting Resources
+
+Resources to understand, evaluate, critique, and implement high-integrity carbon offsetting (including voluntary carbon markets, standards, registries, and rating agencies).
+
+- [Voluntary Registry Standards Comparison](https://carbonplan.org/research/offset-project-registries) – CarbonPlan’s detailed side-by-side comparison of the four major registries (ACR, CAR, Gold Standard, Verra).
+- [Oxford Principles for Net Zero Aligned Carbon Offsetting (2020 + 2024 update)](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/Oxford_Offsetting_Principles_2020.pdf) – Foundational framework for credible corporate offsetting and transition to insets.
+- [VCMI Claims Code of Practice](https://vcmintegrity.org/) – Guidance on credible carbon-credit use claims (including “Carbon Neutral”, “Net Zero”, etc.).
+- [ICVCM Core Carbon Principles](https://icvcm.org/core-carbon-principles/) – 10 governance & quality criteria for high-integrity carbon credits.
+- [Carbon Credit Quality Initiative (CCQI) Scorecard](https://carboncreditquality.org/) – Open-source methodology and scores for 30+ project types (BeZero, Calyx, CarbonPlan, Sylvera, WWF).
+- [TroVe](https://trove-research.com/) – Research and data platform on carbon credit supply, demand, pricing, and quality trends.
+- [Berkeley Carbon Trading Project](https://carboncredits.berkeley.edu/) – Real-time ratings of credit vintages and project types.
+- [Verra Registry Dashboard](https://registry.verra.org/) – Public registry for VCS projects and issuances.
+- [Gold Standard Registry](https://registry.goldstandard.org/) – Public registry with impact reporting.
+- [American Carbon Registry](https://americancarbonregistry.org/) – Public project database and registry.
+- [Puro.earth Marketplace & Standards](https://puro.earth/) – Leading engineered CDR (biochar, carbonated materials, DAC) registry.
+- [CDR.fyi](https://cdr.fyi/) – Live tracker of verified CDR purchases and prices (DAC, biochar, ocean, etc.).
+- [Offset Guide by Stockholm Environment Institute](https://www.offsetguide.org/) – Free, comprehensive guide to understanding carbon offsets and their limitations.
+- [Sylvera Ratings](https://www.sylvera.co/) – Carbon-credit rating agency with free public summaries.
+- [BeZero Carbon Ratings](https://bezerocarbon.com/) – Independent project-level risk ratings (some free data available).
+
+## Carbon Insetting Resources
+
+Insetting focuses on reducing or removing emissions within a company’s own value chain or sector (e.g., regenerative agriculture, low-carbon materials, supply-chain reforestation) rather than external offsets.
+
+- [International Platform for Insetting](https://insettingplatform.com/) – Global community defining standards and best practices for insetting.
+- [Insetting Definition & Framework (2023)](https://insettingplatform.com/wp-content/uploads/2023/11/Insetting-Framework-v1.0.pdf) – Official framework document with principles and examples.
+- [Nestlé Insetting Guideline](https://www.nestle.com/sites/default/files/2022-09/nestle-insetting-guideline.pdf) – Publicly shared corporate insetting methodology (agriculture & forestry focus).
+- [Value Change Initiative Guidance (2024)](https://value-change.org/) – Scope 3 intervention guidance that distinguishes insetting from offsetting.
+- [Regenerative Agriculture Insetting Projects (Kiss the Ground)](https://kisstheground.com/insetting/) – Case studies and resources for soil-carbon insetting in supply chains.
+- [South Pole Insetting Handbook](https://www.southpole.com/publications/insetting-handbook) – Practical guide with examples from fashion, food, and consumer goods.
+- [Plan A Insetting Platform](https://plana.earth/academy/insetting) – Open resources and case studies on insetting vs. offsetting.
+- [Ecosphere+ / &ever Insetting Projects](https://www.andever.com/insetting) – Landscape-level insetting for agricultural commodities.
+- [Gold Standard Value Chain Interventions](https://www.goldstandard.org/our-work/innovations-consultations/value-chain-interventions) – Methodology for claiming Scope 3 reductions via insetting.
+- [Science Based Targets Initiative (SBTi) on Insetting](https://sciencebasedtargets.org/blog/what-role-can-insetting-play-in-corporate-climate-targets) – Position on how insetting fits into net-zero strategies.
+- [World Economic Forum Insetting Playbook (2024)](https://www.weforum.org/publications/insetting-playbook/) – Practical guide for companies starting insetting programs.
+- [Regen10](https://regen10.org/) – Coalition working on outcomes-based regenerative agriculture frameworks that enable insetting claims.
+
+Feel free to add these two sections directly to your README — they are increasingly requested topics and help users understand the full spectrum from offsetting → insetting → direct decarbonization.
 
 ## Contributing
 
