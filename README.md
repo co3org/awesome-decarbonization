@@ -195,6 +195,7 @@ Core guides, protocols, calculators, and tools to understand, measure, report, a
   Mandatory Scope 1, 2, and (where material) Scope 3 disclosure requirements starting 2024–2025 in many jurisdictions.
 - [Exponential Roadmap Initiative – 1.5°C Supply Chain Leaders](https://exponentialroadmap.org/supply-chain-report/)  
   Practical playbooks for engaging suppliers and reducing Scope 3 emissions exponentially.
+- [Scope 3 Challenge](https://github.com/co3org/Scope3-Challenge) – Deep-dive knowledge base on Scope 3 emissions: accounting methods, complexity, regulatory standards, industry benchmarks (1,391 companies), and market infrastructure for supply-chain decarbonisation.
 
 ## Contributing
 
