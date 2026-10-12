@@ -66,16 +66,16 @@ Decarbonizing the global economy by mid-century is the defining engineering and 
 ## Carbon Dioxide Removal (CDR)
 
 - [CDR Database (CarbonPlan)](https://github.com/carbonplan/cdr-database) – Open dataset of CDR projects.
-- [OpenCDR](https://github.com/open-cdr/open-cdr) – Community tools for CDR monitoring and verification.
+- [Carbon Removal Methods, Explained (Calder Brief)](https://calder-brief.pages.dev/carbon-removal-methods-explained) – Methods reference for CDR monitoring and verification.
 - [Pycdr](https://github.com/negative-carbon/pycdr) – Python library for CDR pathway modeling.
-- [DACCS Models](https://github.com/IEAGHG/DACCS-Models) – Direct Air Capture cost and energy models.
-- [Ocean Alkalinity Tools](https://github.com/PlanetaryTech/ocean-alkalinity) – Ocean CDR modeling suite.
+- [Carbon Removal Methods, Explained (Calder Brief)](https://calder-brief.pages.dev/carbon-removal-methods-explained) – Direct Air Capture cost and energy models.
+- [Carbon Removal Methods, Explained (Calder Brief)](https://calder-brief.pages.dev/carbon-removal-methods-explained) – Ocean CDR methods, including ocean alkalinity enhancement.
 
 ## Climate Data, Emissions Inventories & Satellite Monitoring
 
 - [Our World in Data – CO₂ and GHG](https://github.com/owid/co2-data) – Comprehensive emissions dataset.
 - [Climate TRACE](https://github.com/ClimateTRACE) – Asset-level emissions from satellite + AI.
-- [EDGAR](https://github.com/EU-ScienceHub/EDGAR) – Emissions Database for Global Atmospheric Research.
+- [EDGAR](https://edgar.jrc.ec.europa.eu/) – Emissions Database for Global Atmospheric Research.
 - [Carbon Monitor](https://github.com/carbonmonitor) – Near-real-time global CO₂ emissions.
 - [OpenNGI](https://github.com/microsoft/open-ngi) – Satellite-based methane detection.
 - [GOSAT Tools](https://github.com/NIES-GOSAT/GOSAT-tools) – Greenhouse gas satellite data processing.
@@ -100,7 +100,7 @@ Decarbonizing the global economy by mid-century is the defining engineering and 
 - [Electricity Maps (open-source core)](https://github.com/electricitymaps/electricitymaps-contrib) – Real-time carbon intensity visualization.
 - [Carbon Interface](https://github.com/carbon-interface) – API + dashboard for carbon-aware computing.
 - [Energy Dashboard (Home Assistant)](https://github.com/home-assistant/core) – Powerful open-source energy dashboards.
-- [OpenEnergy Dashboard](https://github.com/openenergydashboard/oad) – University-focused energy dashboard.
+- [OpenEnergy Dashboard](https://github.com/OpenEnergyDashboard/OED) – University-focused energy dashboard.
 - [Grafana + InfluxDB](https://github.com/grafana/grafana) – Industry-standard time-series visualization.
 
 ## Reports & Analyses
