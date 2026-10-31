@@ -94,6 +94,7 @@ Decarbonizing the global economy by mid-century is the defining engineering and 
 - [OpenSource Macroeconomics](https://github.com/OpenSourceMacro) – Collection of open macro models.
 - [IMF Climate Policy Models](https://github.com/IMF-Climate) – Open tools for carbon pricing and fiscal policy.
 - [Climate Policy Database](https://github.com/climatepolicydata) – Open database of global climate laws and policies.
+- [EU CBAM default values](https://github.com/vedacta/cbam-default-values) – Official EU CBAM default emission values for 121 countries and every CN code, with benchmarks, as JSON and CSV (CC BY 4.0).
 
 ## Visualization & Dashboard Tools
 
