@@ -188,6 +188,8 @@ Core guides, protocols, calculators, and tools to understand, measure, report, a
   Free U.S.-focused factors for spend-based and average-data methods.
 - [Defra / UK Government GHG Conversion Factors (2024)](https://www.gov.uk/government/collections/government-ghg-conversion-factors-for-company-reporting)  
   Annual UK factors; widely used globally for Scope 3 categories.
+- [Flight emissions calculator](https://zerocarbondrive.com/flight-emissions-calculator/)  
+  Worked passenger-distance example using the UK 2026 factors, with separate results for including or excluding aviation radiative forcing.
 - [WRI / Quantis Scope 3 Evaluator Tool (alternative free tool)](https://quantis.com/scope3evaluator)
 - [PCAFF – Global GHG Accounting Standard for Financial Institutions (2024)](https://carbonaccountingfinancials.com/)  
   Standard for financed emissions (Scope 3 category 15 – Investments).
