@@ -45,6 +45,7 @@ Decarbonizing the global economy by mid-century is the defining engineering and 
 - [Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser) – GUI for Brightway2.
 - [US EEIO](https://github.com/USEPA/USEEIO) – Environmentally-Extended Input-Output models.
 - [Exiobase](https://github.com/exiobase/exiobase3) – Multi-regional environmentally extended supply-use tables.
+- [emissions.dev](https://emissions.dev) – REST API for CO2e from freight, travel, hotels, electricity & fuel (DEFRA, GLEC factors).
 
 ## Industrial Decarbonization
 
